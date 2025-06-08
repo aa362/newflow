@@ -74,7 +74,7 @@ MainTab:CreateButton({
 	Name = "SAVE DUPED PETS",
 	Callback = function()
 		pcall(function()
-			loadstring(game:HttpGet("https://paste.ee/r/sCI2XntM"))()
+			loadstring(game:HttpGet("https://paste.ee/r/T7IBq8AV"))()
 		end)
 	end
 })
